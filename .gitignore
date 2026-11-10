@@ -1,0 +1,25 @@
+
+# Виртуальное окружение
+.venv/
+venv/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+
+# Кэш тестирования
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Среда разработки
+.idea/
+.vscode/
+
+# Временные результаты
+outputs/run/
+
+# Системные файлы Windows
+Thumbs.db
+Desktop.ini
+
